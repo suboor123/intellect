@@ -1,0 +1,13 @@
+.bar {
+    min-height: 30px;
+    background-color: rgba(135, 135, 135, 0.684);
+    display: block;
+    text-align: center;
+    margin: 30px auto;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+ .active {
+    background-color: white !important; 
+}
